@@ -1,14 +1,14 @@
 # Анализ публикуемых новостей
-[pubnews](./pubnews)
+[pubnews](./pubnews/images/logo2.png)
 
 # Клиенты и счета
-[taxacco](./taxacco)
+[taxacco](./taxacco/images/logo.png)
 
 # Служба такси
-[cartax](./cartax)
+[cartax](./cartax/images/logo.png)
 
 # Анализ рынка валют
-[stocash](./stocash)
+[stocash](./stocash/images/logo.png)
 
 # Анализ логов Apache
-[adapache](./adapache)
+[adapache](./adapache/images/logo.png)
