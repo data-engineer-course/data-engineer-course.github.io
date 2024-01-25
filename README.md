@@ -1,5 +1,5 @@
 # Анализ публикуемых новостей
-![pubnews](./pubnews/images/logo2.png)
+[![pubnews](./pubnews/images/logo2.png)](./pubnews)
 
 # Клиенты и счета
 [taxacco](./taxacco/images/logo.png)
