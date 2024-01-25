@@ -1,1 +1,2 @@
-# data-engineer-course.github.io
+# Анализ публикуемых новостей
+[Pubnews](./pubnews)
