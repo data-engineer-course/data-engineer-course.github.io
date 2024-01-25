@@ -11,4 +11,4 @@
 [![stocash](./stocash/images/logo.png)](./stocash)
 
 # Анализ логов Apache
-[![adapache](./adapache/images/logo.png)](./adapache)
+[![adapache](./adapache/images/logo2.png)](./adapache)
